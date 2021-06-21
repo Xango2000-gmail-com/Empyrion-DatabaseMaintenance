@@ -1,0 +1,8 @@
+F:\Repos\DatabaseMaintenance\DatabaseMaintenance\bin\Debug\DatabaseMaintenance.dll
+F:\Repos\DatabaseMaintenance\DatabaseMaintenance\bin\Debug\DatabaseMaintenance.pdb
+F:\Repos\DatabaseMaintenance\DatabaseMaintenance\obj\Debug\DatabaseMaintenance.csproj.CoreCompileInputs.cache
+F:\Repos\DatabaseMaintenance\DatabaseMaintenance\obj\Debug\DatabaseMaintenance.dll
+F:\Repos\DatabaseMaintenance\DatabaseMaintenance\obj\Debug\DatabaseMaintenance.pdb
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\DatabaseMaintenance\DatabaseMaintenance.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\DatabaseMaintenance\DatabaseMaintenance.pdb
+F:\Repos\DatabaseMaintenance\DatabaseMaintenance\obj\Debug\DatabaseMaintenance.csprojAssemblyReference.cache
